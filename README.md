@@ -2,7 +2,7 @@
 
 CreditCardValidatorApi is a simple Web API for validating credit card numbers using the Luhn algorithm. This project follows the SOLID principles and includes unit tests for core functionalities.
 
-## Project Structure
+## Project Structure(CLEAN Architecture)
 
 - `CreditCardValidatorApi.Api`: The Web API project.
 - `CreditCardValidatorApi.Application`: Contains application services and interfaces.
