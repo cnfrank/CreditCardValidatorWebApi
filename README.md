@@ -23,7 +23,7 @@ CreditCardValidatorApi is a simple Web API for validating credit card numbers us
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/cnfrank/CreditCardValidatorApi.git
+   git clone https://github.com/cnfrank/CreditCardValidatorWebApi
    cd CreditCardValidatorApi
 2. Restore dependencies:
    ```sh
