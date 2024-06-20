@@ -1,0 +1,77 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+*.user
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+*.vscode/
+.vs/
+
+# Rider files
+.idea/
+
+# Resharper files
+_ReSharper*/
+
+# Rider generated
+*.sln.iml
+*.suo
+*.userprefs
+*.sln.DotSettings
+
+# Rider
+.idea/
+.idea/.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.user
+*.bak
+*.log
+*.vspscc
+*.vssscc
+*.ncb
+*.suo
+*.gpState
+*.sln.ide
+
+# Template generated files
+*.Edge
+*.\Test
+*.Worker
+
+# Memory files
+*~
+*#*
+*.b* *
+
+# Tags folder
+-tags
+
+# Powerpools
+*.suo
+*.mwp
+*.mwpv
+*.opendb
+
+# Ionizatess
+*.icw

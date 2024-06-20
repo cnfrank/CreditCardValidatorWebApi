@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardValidatorApi.Api", "CreditCardValidatorApi.Api\CreditCardValidatorApi.Api.csproj", "{03D49273-7202-45EF-882A-AD39B45B51A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardValidatorApi.Application", "CreditCardValidatorApi.Application\CreditCardValidatorApi.Application.csproj", "{11034243-3A5C-45FD-BFFE-395FF7E24DC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardValidatorApi.Domain", "CreditCardValidatorApi.Domain\CreditCardValidatorApi.Domain.csproj", "{8915EB0A-F2AC-46E6-9B0F-BEACF5340804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardValidatorApi.Tests", "CreditCardValidatorApi.Tests\CreditCardValidatorApi.Tests.csproj", "{BDD5AC93-E608-4C80-A274-FBA816705B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D49273-7202-45EF-882A-AD39B45B51A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D49273-7202-45EF-882A-AD39B45B51A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D49273-7202-45EF-882A-AD39B45B51A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D49273-7202-45EF-882A-AD39B45B51A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11034243-3A5C-45FD-BFFE-395FF7E24DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11034243-3A5C-45FD-BFFE-395FF7E24DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11034243-3A5C-45FD-BFFE-395FF7E24DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11034243-3A5C-45FD-BFFE-395FF7E24DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8915EB0A-F2AC-46E6-9B0F-BEACF5340804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8915EB0A-F2AC-46E6-9B0F-BEACF5340804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8915EB0A-F2AC-46E6-9B0F-BEACF5340804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8915EB0A-F2AC-46E6-9B0F-BEACF5340804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD5AC93-E608-4C80-A274-FBA816705B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD5AC93-E608-4C80-A274-FBA816705B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD5AC93-E608-4C80-A274-FBA816705B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD5AC93-E608-4C80-A274-FBA816705B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
