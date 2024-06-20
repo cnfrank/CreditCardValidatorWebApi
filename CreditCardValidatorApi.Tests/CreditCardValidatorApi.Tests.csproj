@@ -20,4 +20,10 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CreditCardValidatorApi.Api\CreditCardValidatorApi.Api.csproj" />
+    <ProjectReference Include="..\CreditCardValidatorApi.Application\CreditCardValidatorApi.Application.csproj" />
+    <ProjectReference Include="..\CreditCardValidatorApi.Domain\CreditCardValidatorApi.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
