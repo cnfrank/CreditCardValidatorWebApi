@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  creditcardvalidatorapi:
+    image: creditcardvalidatorapi
+    build:
+      context: ./CreditCardValidatorApi.Api
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
